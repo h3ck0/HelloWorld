@@ -1,0 +1,4 @@
+﻿  HelloWorld.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK wird nicht unterstützt, wenn verwalteter Code vorhanden ist; Link wird mit /DEBUG:FULL neu gestartet
+  HelloWorld.vcxproj -> C:\Users\Henning\Documents\HelloWorld\HelloWorld\Debug\HelloWorld.exe
+  HelloWorld.vcxproj -> C:\Users\Henning\Documents\HelloWorld\HelloWorld\Debug\HelloWorld.pdb (Partial PDB)
