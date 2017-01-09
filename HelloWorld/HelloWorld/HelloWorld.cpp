@@ -20,9 +20,10 @@ int main(array<System::String ^> ^args)
 	{
 		Console::WriteLine("\n bitte eine Zahl eingeben:");
 		line = Console::ReadLine();
-		Console::WriteLine("\n ==> OK du hast " + line + " eingegeben <==");
+		Console::WriteLine("\n ==> OK du hast [" + line + "] eingegeben <==");
 		line = Console::ReadLine();
 		Console::WriteLine(L" ////////////////////////////////////////////////////////////");
+
 
 		// schneller ausstieg
 		if (line == "13")
